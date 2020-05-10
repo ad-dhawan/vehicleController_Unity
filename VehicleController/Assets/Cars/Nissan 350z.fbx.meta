@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 12f26da2fa336c648ad7fedb055fb2fe
+timeCreated: 1589134320
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chassis_body_white_[s
+    100002: door_rf_ok_body_w
+    100004: door_rf_ok_body_white
+    100006: //RootNode
+    100008: spoiler_body_white_[s
+    100010: wheel_rs721_[spec
+    100012: wheel_rs721_[spec.001
+    100014: wheel_rs721_[spec.002
+    100016: wheel_rs721_[spec]
+    400000: chassis_body_white_[s
+    400002: door_rf_ok_body_w
+    400004: door_rf_ok_body_white
+    400006: //RootNode
+    400008: spoiler_body_white_[s
+    400010: wheel_rs721_[spec
+    400012: wheel_rs721_[spec.001
+    400014: wheel_rs721_[spec.002
+    400016: wheel_rs721_[spec]
+    2300000: chassis_body_white_[s
+    2300002: door_rf_ok_body_w
+    2300004: door_rf_ok_body_white
+    2300006: spoiler_body_white_[s
+    2300008: wheel_rs721_[spec
+    2300010: wheel_rs721_[spec.001
+    2300012: wheel_rs721_[spec.002
+    2300014: wheel_rs721_[spec]
+    3300000: chassis_body_white_[s
+    3300002: door_rf_ok_body_w
+    3300004: door_rf_ok_body_white
+    3300006: spoiler_body_white_[s
+    3300008: wheel_rs721_[spec
+    3300010: wheel_rs721_[spec.001
+    3300012: wheel_rs721_[spec.002
+    3300014: wheel_rs721_[spec]
+    4300000: chassis_body_white_[s
+    4300002: spoiler_body_white_[s
+    4300004: door_rf_ok_body_w
+    4300006: door_rf_ok_body_white
+    4300008: wheel_rs721_[spec.002
+    4300010: wheel_rs721_[spec.001
+    4300012: wheel_rs721_[spec
+    4300014: wheel_rs721_[spec]
+    6400000: chassis_body_white_[s
+    6400002: door_rf_ok_body_w
+    6400004: door_rf_ok_body_white
+    6400006: spoiler_body_white_[s
+    6400008: wheel_rs721_[spec
+    6400010: wheel_rs721_[spec.001
+    6400012: wheel_rs721_[spec.002
+    6400014: wheel_rs721_[spec]
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

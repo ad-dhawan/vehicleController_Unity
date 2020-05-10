@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: eb6331081f153c74fbb0b5a1860c7360
+timeCreated: 1589110867
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: body_MeshPart0
+    100004: body_MeshPart1
+    100006: brakes_f_l
+    100008: brakes_f_r
+    100010: brakes_r_l
+    100012: brakes_r_r
+    100014: //RootNode
+    100016: glass
+    100018: headlights
+    100020: interior
+    100022: rearlights
+    100024: wheel_f_l
+    100026: wheel_f_r
+    100028: wheel_r_l
+    100030: wheel_r_r
+    400000: body
+    400002: body_MeshPart0
+    400004: body_MeshPart1
+    400006: brakes_f_l
+    400008: brakes_f_r
+    400010: brakes_r_l
+    400012: brakes_r_r
+    400014: //RootNode
+    400016: glass
+    400018: headlights
+    400020: interior
+    400022: rearlights
+    400024: wheel_f_l
+    400026: wheel_f_r
+    400028: wheel_r_l
+    400030: wheel_r_r
+    2300000: body_MeshPart0
+    2300002: body_MeshPart1
+    2300004: brakes_f_l
+    2300006: brakes_f_r
+    2300008: brakes_r_l
+    2300010: brakes_r_r
+    2300012: glass
+    2300014: headlights
+    2300016: interior
+    2300018: rearlights
+    2300020: wheel_f_l
+    2300022: wheel_f_r
+    2300024: wheel_r_l
+    2300026: wheel_r_r
+    3300000: body_MeshPart0
+    3300002: body_MeshPart1
+    3300004: brakes_f_l
+    3300006: brakes_f_r
+    3300008: brakes_r_l
+    3300010: brakes_r_r
+    3300012: glass
+    3300014: headlights
+    3300016: interior
+    3300018: rearlights
+    3300020: wheel_f_l
+    3300022: wheel_f_r
+    3300024: wheel_r_l
+    3300026: wheel_r_r
+    4300000: interior
+    4300002: body_MeshPart0
+    4300004: body_MeshPart1
+    4300006: glass
+    4300008: wheel_f_l
+    4300010: brakes_f_l
+    4300012: brakes_r_l
+    4300014: wheel_r_l
+    4300016: brakes_f_r
+    4300018: wheel_f_r
+    4300020: wheel_r_r
+    4300022: brakes_r_r
+    4300024: headlights
+    4300026: rearlights
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

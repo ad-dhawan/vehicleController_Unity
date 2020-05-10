@@ -36,6 +36,10 @@ public class CarController : MonoBehaviour
 
     private Rigidbody _rb;
 
+    public bool isBrake = false;
+    public float brakeTorque = 50000000000000f;
+    public WheelCollider rearLeft, rearRight;
+
     
     private void Start()
     {
@@ -48,12 +52,14 @@ public class CarController : MonoBehaviour
     {
         AnimateWheels();
         GetInputs();
+        Handbrake();
     }
 
     private void LateUpdate()
     {
         Move();
         Turn();
+        Handbrake();
     }
 
     private void GetInputs()
@@ -93,4 +99,30 @@ public class CarController : MonoBehaviour
             wheel.model.transform.rotation = _rot;
         }
     }
+
+    public void Handbrake()
+    {
+        if (Input.GetKey (KeyCode.Space))
+        {
+            isBrake = true;
+        }
+        else
+        {
+            isBrake = false;
+        }
+
+        if (isBrake == true)
+        {
+            rearLeft.brakeTorque = brakeTorque;
+            rearRight.brakeTorque = brakeTorque;
+            rearLeft.motorTorque = 0;
+            rearRight.motorTorque = 0;
+        }
+        else
+        {
+            rearLeft.brakeTorque = 0;
+            rearRight.brakeTorque = 0;
+        }
+    }
+
 }
